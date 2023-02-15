@@ -1,0 +1,21 @@
+body {
+    
+    background-color: blue;
+ }
+
+ h1 {
+   color: #66bfbf;
+ }
+
+ h3 {
+    color: #66bfbf;
+
+ }
+
+hr {
+    background-color: white;
+    border-top-style: dotted;
+    border-style: grey;
+    border-width: 5px;
+    width:  10%;
+ }
